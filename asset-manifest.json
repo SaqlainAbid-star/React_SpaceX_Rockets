@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SaqlainAbid-star/React_SpaceX_Rockets/static/css/main.45fbba45.chunk.css",
+    "main.js": "/SaqlainAbid-star/React_SpaceX_Rockets/static/js/main.23587b8e.chunk.js",
+    "main.js.map": "/SaqlainAbid-star/React_SpaceX_Rockets/static/js/main.23587b8e.chunk.js.map",
+    "runtime-main.js": "/SaqlainAbid-star/React_SpaceX_Rockets/static/js/runtime-main.5348b148.js",
+    "runtime-main.js.map": "/SaqlainAbid-star/React_SpaceX_Rockets/static/js/runtime-main.5348b148.js.map",
+    "static/css/2.4be38407.chunk.css": "/SaqlainAbid-star/React_SpaceX_Rockets/static/css/2.4be38407.chunk.css",
+    "static/js/2.db2350d4.chunk.js": "/SaqlainAbid-star/React_SpaceX_Rockets/static/js/2.db2350d4.chunk.js",
+    "static/js/2.db2350d4.chunk.js.map": "/SaqlainAbid-star/React_SpaceX_Rockets/static/js/2.db2350d4.chunk.js.map",
+    "static/js/3.3f83efb4.chunk.js": "/SaqlainAbid-star/React_SpaceX_Rockets/static/js/3.3f83efb4.chunk.js",
+    "static/js/3.3f83efb4.chunk.js.map": "/SaqlainAbid-star/React_SpaceX_Rockets/static/js/3.3f83efb4.chunk.js.map",
+    "index.html": "/SaqlainAbid-star/React_SpaceX_Rockets/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/SaqlainAbid-star/React_SpaceX_Rockets/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.45fbba45.chunk.css.map": "/SaqlainAbid-star/React_SpaceX_Rockets/static/css/main.45fbba45.chunk.css.map",
+    "static/js/2.db2350d4.chunk.js.LICENSE.txt": "/SaqlainAbid-star/React_SpaceX_Rockets/static/js/2.db2350d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5348b148.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.db2350d4.chunk.js",
+    "static/css/main.45fbba45.chunk.css",
+    "static/js/main.23587b8e.chunk.js"
+  ]
+}
